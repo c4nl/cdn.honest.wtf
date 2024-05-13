@@ -9,7 +9,7 @@ x.style.display = "none";
 var video = document.getElementById("myVideo");
 var btn = document.getElementById("myBtn");
 
-source.setAttribute('src', 'https://cdn.honest.wtf/media/background/bg.mp4');
+source.setAttribute('src', 'no video');
 video.appendChild(source);
 
 video.pause();
