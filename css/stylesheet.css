@@ -15,6 +15,10 @@
             scrollbar-width: none;
             -ms-overflow-style: none;
             overflow-y: scroll;
+	    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.honest.wtf/media/background/bg.svg"); 
+	    background-position: 50% 50%;
+  	    color: #FFFFFF;
+  	    background-color: #000;
           }
           body::-webkit-scrollbar {
             width: 0px;
