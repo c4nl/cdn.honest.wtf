@@ -9,7 +9,7 @@ x.style.display = "none";
 var video = document.getElementById("myVideo");
 var btn = document.getElementById("myBtn");
 
-source.setAttribute('src', 'https://cdn.honest.wtf/media/background/bg.webp');
+source.setAttribute('src', 'https://cdn.honest.wtf/media/background/bg.mp4');
 video.appendChild(source);
 
 video.pause();
@@ -38,7 +38,7 @@ tsParticles.load("tsparticles", {
       value: "#5a5aff"
     },
     links: {
-      color: "#E2A6FF",
+      color: "#5a5aff",
       distance: 100,
       enable: true,
       opacity: 1,
